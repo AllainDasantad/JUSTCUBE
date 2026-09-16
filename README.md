@@ -2,3 +2,6 @@ A rotating ASCII cube renderer written in C, inspired by classic terminal demo e
 
 
 Honestly, I want to stop vibe coding and study how to code by myself.
+
+
+<img width="512" height="512" alt="StockCake-Prismatic_Pixel_Cube-2476273-medium" src="https://github.com/user-attachments/assets/29bf5779-0480-4f7b-92f1-f9fc320e35cc" />
